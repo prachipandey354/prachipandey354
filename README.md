@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prachipandey354
 - 👀 I’m interested in Front End Web development
 - 🌱 I’m currently learning Blockchain/Ethereum/Cryptocurrency
-- 💞️ I’m looking to collaborate on building smart-contracts with solidity.
 - 📫 How to reach me prachipandeynita23@gmail.com
 
 <!---
