@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prachipandey354
-- 👀 I’m interested in Front End Web development
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Blockchain/Ethereum/Cryptocurrency
 - 📫 How to reach me prachipandeynita23@gmail.com
 
